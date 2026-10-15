@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://brvrmiwqm3pa6"]
 
 [ext_resource type="Script" uid="uid://di53wgyo1wpue" path="res://Field.cs" id="1_7sdab"]
-[ext_resource type="PackedScene" uid="uid://dxk31aq4o1flm" path="res://Player/Player.tscn" id="1_8j5rm"]
+[ext_resource type="PackedScene" uid="uid://dxk31aq4o1flm" path="res://player/player.tscn" id="1_8j5rm"]
 [ext_resource type="PackedScene" uid="uid://cyntbytn83dlu" path="res://Enemies/Bat/Bat.tscn" id="2_48t60"]
 [ext_resource type="PackedScene" uid="uid://blyf84svgy1n7" path="res://Enemies/Zombie/Zombie.tscn" id="3_sl1x8"]
 [ext_resource type="PackedScene" uid="uid://cfditc2mn5gnl" path="res://Enemies/Rock/Rock.tscn" id="4_sl1x8"]
